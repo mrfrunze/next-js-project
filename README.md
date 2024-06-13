@@ -30,6 +30,22 @@ npm i prettier
 
 npm i tailwindcss-animate @tailwindcss/typography 
 
+## Add structure project
+
+add folder fof UI components
+
+add folder constants 
+
+add folder context
+
+add folder lib
+
+add folder database
+
+add folder types
+
+add file .env.local
+
 
 
 
